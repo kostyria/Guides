@@ -1,11 +1,10 @@
-## NodesRunner Communities
 
 ### About
 
->- Telegram: https://t.me/quadro_network
->- Website: https://quadro.network/
->- X: https://twitter.com/quadro_network
->- Email: https://twitter.com/quadro_network
+>- Telegram: https://t.me/Alexey_Kostyrya
+>- Website: https://github.com/kostyria
+>- X: https://twitter.com/kostyria1
+>- Email: https://info@alexdj
 
 
 # Guides for Projects
